@@ -1,4 +1,4 @@
-# challenge1
+# challenge1 - HTML-CSS-refactor
 Demonstrating my knowledge of HTML semantics 
 
 Link to application - https://fayane17.github.io/challenge1/
